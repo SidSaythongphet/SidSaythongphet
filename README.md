@@ -1,4 +1,4 @@
-![Github Banner](https://user-images.githubusercontent.com/94420653/210875186-579f02f7-9967-4bff-a69e-8c0cf3092981.jpg)
+![Sid Saythongphet, Data Analytics & Data Engineering Coach](banner.png)
 # 👋 Hello!
 
 My name is Sid Saythongphet and I am a Fullstack Software Engineer. After almost a decade in the health and wellness industry, I've transitioned into the world of tech.
